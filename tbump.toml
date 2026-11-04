@@ -1,7 +1,7 @@
 github_url = "https://github.com/maniaclab/ml_platform-cpu-binder/"
 
 [version]
-current = "0.0.0"
+current = "2026.8.17"
 
 # Versions match the ml_platform CalVer release (YYYY.M.D) being wrapped.
 regex = '''
