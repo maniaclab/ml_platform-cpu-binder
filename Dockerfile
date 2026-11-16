@@ -6,4 +6,4 @@
 # instead (see README.md). The digest is always present because BinderHub
 # caches builds by commit: a FROM line naming only a moving tag would never
 # be rebuilt.
-FROM hub.opensciencegrid.org/usatlas/ml-platform-cpu:latest@sha256:3a0fbe4a0d00e6c645f881d0f799076f27260d439b817924cce2303fd09ac665
+FROM hub.opensciencegrid.org/usatlas/ml-platform-cpu:latest@sha256:956e2f997244402ecf7b4083ea6e95453ba2b4c02c41f49974693b0308501e52
